@@ -43,7 +43,7 @@ li > a:hover {
 } */
 
 
-.main {
+/* .main {
     color: rebeccapurple;
     border: 2px solid #ccc;
     padding: 1em;
@@ -51,5 +51,32 @@ li > a:hover {
 
 .special {
 
-    color: green;
+    color: green; } */
+/* 
+img {
+    float: left;
+    margin-right: 10px;
+    
 }
+
+.below {
+    clear: left;
+    padding: 10px;
+} */
+
+.target {
+    width: 50px;
+    height: 50px;
+    background-color: forestgreen;
+    position: absolute;
+    top:0;
+    right: 0;
+
+}
+
+.container {
+    border: 2px gray solid;
+    position: relative;
+}
+
+
