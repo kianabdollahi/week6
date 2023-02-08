@@ -15,7 +15,7 @@ h2 + p {
     
 } */
 
-a[title="BCIT homepage"] {
+/* a[title="BCIT homepage"] {
 
     background-color: yellow;
 }
@@ -40,4 +40,16 @@ li > a:visited {
 li > a:hover {
     color: pink;
     background-color: transparent;
+} */
+
+
+.main {
+    color: rebeccapurple;
+    border: 2px solid #ccc;
+    padding: 1em;
+}
+
+.special {
+
+    color: green;
 }
